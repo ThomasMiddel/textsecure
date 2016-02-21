@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- From: file:/Users/thomasmiddel/Downloads/TextSecure-master/res/values-v19/colors.xml -->
+    <eat-comment/>
+    <color name="touch_highlight">#22000000</color>
+</resources>
